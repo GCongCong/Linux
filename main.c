@@ -5,5 +5,6 @@ int add(int x,int y)
 }
 int main()
 {
+int d=add(2,3);
 printf("hello");
 }
